@@ -1,0 +1,53 @@
+nav {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+        color:darkblue;
+        font-size:25px;
+           margin-right: 0%;
+        }
+      p{
+        color: black;
+      }
+      form{float:right;font-size: 40px;color: tomato;}
+body{
+  color:white;
+}
+
+nav>ul {
+    text-align: right;
+}
+
+nav{
+    display:inline-flex;
+}
+
+nav ul li a {
+    padding: 18px;
+    margin-right: 0;
+
+        display: block;
+    color: rgba(255, 255, 255, 0.733);
+}
+
+nav>ul>li>a:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), insert 0 0 1px rgba(255, 255, 255, 0.6);
+    background: rgba(221, 109, 35, 0.678);
+    color: rgba(0, 35, 122, 0.7);
+}
+.container{
+  background-image: url("https://scontent.fnbo1-1.fna.fbcdn.net/v/t1.0-9/27658124_2146750682210572_8615637119504957931_n.jpg?_nc_cat=0&oh=44632318f62591c14d390c9b11779b81&oe=5BE3A811");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top:0;
+bottom: 0;
+right: 0;
+left: 0;
+}
+h1{
+  color:black;
+font-size:50px;
+float:left;
+}
