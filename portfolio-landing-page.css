@@ -25,6 +25,7 @@ nav>ul {
 
 nav{
     display:inline-flex;
+    color: green;
 }
 
 nav ul li a {
