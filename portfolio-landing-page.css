@@ -11,6 +11,7 @@ nav {
         }
       p{
         color: black;
+        font-size: 20px;
       }
       form{float:right;font-size: 40px;color: tomato;}
 body{
@@ -44,7 +45,7 @@ nav>ul>li>a:hover {
   background-size: cover;
   position: relative;
   top:0;
-  opacity: 0.5px;
+  opacity: 1px;
 bottom: 0;
 right: 0;
 left: 0;
