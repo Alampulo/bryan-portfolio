@@ -1,70 +1,79 @@
-
-nav {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 10px 0;
-    margin-right: 0%;
-        color:darkblue;
-        font-size:25px;
-        display:inline-block;
-        color: green;
-
-        }
-      p{
-        color: black;
-        font-size: 20px;
-        font-family: verdana;
-      }
-      form{float:right;font-size: 40px;color: tomato;}
-body{
-  color:white;
-}
-
-nav>ul {
-    text-align: right;
+.nav{
+  display :inline-block;
 }
 
 
-nav ul li a {
-    padding: 18px;
-    margin-right: 0;
 
-        display: block;
-    color: rgba(255, 255, 255, 0.733);
-}
 
-nav>ul>li>a:hover {
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), insert 0 0 1px rgba(255, 255, 255, 0.6);
-    background: rgba(221, 109, 35, 0.678);
-    color: rgba(0, 35, 122, 0.7);
-}
+
 .container{
-  
-  font-family: sans-serif;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  top:0;
-  opacity: 0.2px;
-bottom: 0;
-right: 0;
-left: 0;
-padding-left: 180px;
-border:20px solid brown  :
+  border-color: black;
+   box-sizing: border-box;
+   box-shadow: blue;
+   padding left: 400px;
+    border: 150px solid orange;
+    height:100%;
+    width: 100%:
+    background-color:lightred;
+    text-indent: 35px;
 }
 h1{
-  font-style: oblique;
-  color:black;
-font-size:50px;
-float:left;
-font-family: papyrus;
+  font-size:75px;
+  font-family: Comic Sans MS;
+  align-items: center;
+  font-weight: 39px;
+
+}
+
 }
 p1{
-  color: brown;
-  font-size: 27px;
-  font-family: cursive;
+  font-size: 24px;
+  font-family: verdana;
+  color: black;
 }
-.note{
-  font-size: 21px;
+p{
+  font-size: 20px;
+  font-family: verdana;
+  color: black;
+}
+h{
+  font-size: 27px;
+  font-style: oblique;
+  font-weight: 25px;
+  color: violet;
+  align-items: center;
+}
+h2{
+  font-size: 28px;
+  font-style: oblique;
+  font-weight: 28px;
+  color: black;
+}
+h2{
+  font-size: 28px;
+  font-style: oblique;
+  font-weight: 28px;
+  color: green;
+}
+li{
+  font-size: 25px;
+  color: black;
+}
+marquee{
+  font-size: 30px;
+  font-family: cursive;
+  color:indigo;
+  width:50%;
+}
+img{
+  float: left;
+  width: 100%;
+  height: 25%;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;S
 
+pre{
+  display: right;
+  background-color: lightorange;
 }
