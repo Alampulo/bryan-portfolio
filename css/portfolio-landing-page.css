@@ -1,3 +1,4 @@
+
 nav {
     max-width: 960px;
     margin: 0 auto;
@@ -5,8 +6,9 @@ nav {
     margin-right: 0%;
         color:darkblue;
         font-size:25px;
-           margin-right: 0%;
-           display: right
+        display:inline-block;
+        color: green;
+
         }
       p{
         color: black;
@@ -22,10 +24,6 @@ nav>ul {
     text-align: right;
 }
 
-nav{
-    display:inline-block;
-    color: green;
-}
 
 nav ul li a {
     padding: 18px;
@@ -41,7 +39,8 @@ nav>ul>li>a:hover {
     color: rgba(0, 35, 122, 0.7);
 }
 .container{
-  background-image: url("https://scontent.fnbo1-1.fna.fbcdn.net/v/t1.0-9/27658124_2146750682210572_8615637119504957931_n.jpg?_nc_cat=0&oh=44632318f62591c14d390c9b11779b81&oe=5BE3A811");
+  background-image: ("../portfolio-page/images/alampulo.jpg")
+  font-family: sans-serif;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -50,6 +49,8 @@ nav>ul>li>a:hover {
 bottom: 0;
 right: 0;
 left: 0;
+padding-left: 180px;
+border:20px solid brown  :
 }
 h1{
   font-style: oblique;
