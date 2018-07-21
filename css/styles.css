@@ -53,6 +53,19 @@ img{
   width: 220px;
   height: 200px;
 }
+#imgz{
+  display:inline-block;
+  width: 5px;
+  height: 4px;
+  color: lightblack;
+  padding: 0px;
+  margin:0;
+}
+#img1{
+  display:inline-block;
+  width: 350px;
+  height: 400px;
+}
 h3{
   font-style: bold;
   color:green;
@@ -93,4 +106,12 @@ p2{
 #projects{
   display: center;
   padding-right: 400px;
+}
+marquee{
+  width:40%;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
 }
