@@ -16,7 +16,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  padding-right:100px;
+  padding-right:00px;
   padding-left: 100px;
   top: 0:auto;
   bottom: 0;
@@ -55,7 +55,7 @@ li{
 }
 img{
   display:inline-block;
-  width: 175px;
+  width: 220px;
   height: 200px;
 }
 
